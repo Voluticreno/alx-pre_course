@@ -1,0 +1,5 @@
+cat > README.md
+git add .
+git commit -m "whatever"
+git push
+
